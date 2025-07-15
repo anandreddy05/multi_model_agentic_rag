@@ -1,0 +1,179 @@
+What is Agentic AI?
+Agentic AI is designed to operate as autonomous agents that can make decisions, initiate actions, and pursue goals with minimal human input. These advanced systems represent a significant evolution beyond traditional AI models that require constant human oversight and predefined constraints. Agentic AI exhibits true autonomy by independently analyzing situations and taking purposeful action to achieve specific objectives.
+
+These systems simulate human-like agency through sophisticated planning, reasoning, and adaptation capabilities that allow them to navigate dynamic environments effectively. Agentic AI leverages large language models (LLMs), machine learning (ML), and natural language processing (NLP) to recognize context and execute complex tasks. The technology enables AI agents to interact with external tools and APIs while continuously learning from feedback to improve performance over time.
+
+Unlike narrow artificial intelligence that performs single, predefined tasks, agentic AI manages multi-step processes independently across various systems and domains. These systems can distill complex goals into smaller subtasks and coordinate multiple specialized agents to achieve comprehensive solutions. This capability transforms how organizations approach automation by enabling end-to-end problem-solving without constant human intervention.
+
+In the world of engineering and manufacturing, “AI agents will monitor market trends, customer feedback, and performance data to generate innovative new product concepts,” says Josh Epstein, CMO of Aras. “Agentic AI will drive higher levels of operational efficiency, reduce time-to-market, and enable companies to stay ahead in an increasingly competitive global market,” he adds.
+
+How agentic AI works
+Agentic AI operates through the sophisticated integration of multiple advanced technologies that work together to create autonomous behavior.
+
+The system combines NLP for understanding human communication, ML algorithms for pattern recognition and prediction, LLMs for reasoning and decision-making, and robust integration capabilities for connecting with external tools and APIs.
+
+These technologies enable AI agents to process complex information, make informed decisions, and execute actions across diverse digital environments. The core workflow follows a structured four-step cycle that mirrors human problem-solving approaches:
+
+Sensing and information gathering: Agents collect data from their environment through various sources and interfaces
+Reasoning and strategic planning: The system analyzes gathered information and formulates strategic plans based on objectives
+Execution and coordination: Agents break down complex objectives into manageable subtasks while coordinating with specialized tools and other agents to implement solutions
+Learning and adaptation: The system learns from outcomes and adapts strategies through continuous feedback loops
+This workflow is supported by five essential capabilities that enable true autonomous operation. Each capability addresses a critical aspect of independent decision-making and task execution:
+
+Goal formulation: Interprets natural language instructions and translates user intent into specific, actionable objectives
+Planning and decision-making: Decomposes complex tasks into logical sequences while evaluating multiple options and selecting optimal approaches
+Tool use: Provides seamless integration with software applications, databases, and APIs to extend the agent’s capabilities beyond its core knowledge
+Memory and state management: Retains context from previous interactions and continuously refines strategies based on historical performance
+Autonomous execution: Enables independent operation while maintaining defined guardrails for safety and reliability
+In customer support scenarios, agents autonomously resolve complex technical issues by diagnosing problems, accessing relevant databases, and implementing solutions while learning from each interaction. Data analysis pipelines benefit from agents that can detect anomalies, prioritize tasks based on business impact, and automatically generate corrective actions to maintain system performance.
+
+Benefits of agentic AI
+Organizations that implement agentic AI systems experience transformative improvements across multiple operational dimensions. These benefits extend far beyond simple task automation to deliver comprehensive value that reshapes how businesses operate and compete in the modern marketplace.
+
+End-to-end automation: Agentic AI handles entire processes from input to output with minimal human involvement, eliminating the need for constant oversight and intervention.
+Greater scalability: As operational demands increase, these systems maintain efficiency without requiring manual intervention or infrastructure upgrades.
+Improved efficiency: Agentic AI processes large amounts of data significantly faster than humans, facilitating faster decision-making and smoother workflows across all business functions.
+Enhanced adaptability: AI agents learn and adapt in real time to changing conditions or feedback, continuously refining their decision-making algorithms without requiring reprogramming.
+Tool orchestration: Agentic AI seamlessly integrates multiple tools, databases, and APIs to execute sophisticated workflows that span various systems and platforms.
+Enhanced decision-making: AI agents process vast data streams in real time to provide actionable insights that enable faster, more informed business decisions.
+ 
+
+What is the difference between agentic AI and generative AI?
+Understanding the distinction between agentic AI and generative AI informs the best choice among suitable technologies for an organization’s specific needs. While both leverage advanced machine learning and large language models, their purposes and operations are fundamentally different.
+
+Generative AI
+Generative AI focuses on creating new content such as text, images, audio, or code based on patterns learned from extensive training data. These systems excel at content generation by identifying and encoding patterns in massive datasets to produce high-quality outputs in real-time. Generative AI operates reactively by generating outputs in response to user prompts without maintaining ongoing task ownership or pursuing independent objectives.
+
+The technology’s strength lies in its ability to create coherent, contextual content like essays, marketing copy, software code, and visual media. Popular examples include ChatGPT writing blog posts, DALL-E creating images, or Jasper AI generating marketing materials. These systems adapt their outputs based on user feedback but remain fundamentally dependent on human input and guidance to determine context and goals.
+
+Agentic AI
+Agentic AI extends beyond content generation to operate as autonomous agents capable of planning, making decisions, and using tools to achieve defined goals. These systems exhibit true autonomy by independently analyzing situations, formulating strategies, and executing actions with minimal human intervention. Agentic AI is proactive rather than reactive, possessing “agency” to make contextual decisions and adapt to changing environments.
+
+The technology executes multi-step processes independently while often interacting with APIs, databases, and applications to complete comprehensive workflows. Agentic AI systems follow structured processes that include perceiving environments, reasoning through problems, acting on decisions, learning from outcomes, and collaborating with other systems. Examples include AI agents that research topics across multiple sources, extract relevant data, compile comprehensive reports, and automatically distribute findings via email or other channels.
+
+Attribute
+
+Generative AI	
+Agentic AI
+
+Primary Function	
+Content creation (text, images, code, music)
+
+Task execution and decision-making
+
+Autonomy Level	
+Reactive (prompt-based)
+
+Proactive (goal-driven)
+
+Tool Use	
+Rare or human-initiated
+
+Frequent and autonomous access to external tools
+
+Workflow Scope	
+Single interaction
+
+Multi-step, cross-tool processes
+
+Learning & Adaptation	
+Limited to training data
+
+Continuously improves through reinforcement learning
+
+Decision Making	
+Content complexity management
+
+Autonomous situation assessment and path determination
+
+Example Use Case	
+Generate product descriptions, create images
+
+Launch and manage full marketing campaigns, IT helpdesk automation
+
+The fundamental difference centers on focus and autonomy. Generative AI creates content while agentic AI performs actions. Generative AI outputs new content, whereas agentic AI outputs a series of decisions and actions that accomplish specific objectives. Organizations often benefit from combining both technologies to create comprehensive solutions that merge creativity with autonomous execution.
+
+When to use agentic AI
+Organizations should deploy agentic AI when traditional automation falls short of addressing complex and dynamic business challenges. The technology excels in situations that require sophisticated decision-making, multi-step coordination, and adaptive responses to changing conditions.
+
+The range of scenarios for agentic AI deployment is vast, including:
+
+Complex multi-tool workflows. Processes requiring coordination across diverse software platforms, databases, and APIs, where sequential decisions depend on evolving information
+Dynamic environments with high variability. Situations where conditions change frequently and require immediate adaptive responses that rule-based systems cannot anticipate
+Limited human supervision scenarios. Operations during off-hours, across multiple time zones, or in high-cost supervision environments where continuous oversight is impractical
+Real-time threat detection and response. Cybersecurity operations requiring immediate analysis of network traffic, user behavior anomalies, and automated threat mitigation
+Supply chain optimization. Managing inventory levels, rerouting shipments, and adjusting production schedules based on real-time disruptions and market conditions
+Personalized customer experiences. Delivering tailored services by analyzing user data, preferences, and behavior patterns to enhance engagement and satisfaction
+Predictive maintenance and diagnostics. Manufacturing environments where AI agents detect equipment performance issues, schedule maintenance, and prevent costly downtime
+Financial risk management. Fraud detection, portfolio optimization, and compliance monitoring requiring analysis of vast data streams and immediate response capabilities
+Healthcare patient care coordination. Managing treatment plans, administrative workflows, and resource allocation while ensuring continuity of care
+High risk/high rewards. Industries with high-stakes environments particularly benefit from agentic AI implementation.
+Real-world examples demonstrate significant value, including Mercedes-Benz’s automotive AI assistant, which provides personalized navigation responses. Bayer’s AI-driven product development is designed to improve the manufacturing and delivery of products to customers. These applications showcase agentic AI’s ability to transform operational efficiency while maintaining quality and consistency across complex business processes.
+
+Common tools and frameworks for agentic AI
+“AI agents are going to drive up adoption for developers who are apprehensive about using AI. These agents are easy to use, like spellcheck, and answer important questions like, ‘Did I write a good requirement? Is there already a duplicate?’” says Jonathan Scott, chief architect at Razorleaf.
+
+Building effective agentic AI systems requires a comprehensive technology stack that spans multiple specialized components. Key categories of agentic AI tools and frameworks include:
+
+AI agent platforms
+Autonomous systems, such as Auto-GPT, BabyAGI, and AgentGPT, operate as independent digital project managers—conceiving, organizing, and executing tasks with minimal human intervention. These platforms employ “GPT on a loop” approaches, running iterative cycles to enhance understanding and fine-tune outputs, while adapting and learning from experiences through trial-and-error feedback mechanisms.
+
+Large Language Models (LLMs)
+Foundation models, such as OpenAI GPT-4, Claude 3 Opus, and Gemini 1.0 Ultra, serve as the reasoning engines that power agentic AI decision-making capabilities. Research indicates that Claude 3 Opus has emerged as the state-of-the-art LLM for solving complex undergraduate-level control problems, demonstrating superior accuracy and reasoning prowess in engineering applications.
+
+Vector databases and memory systems
+Platforms like Pinecone, Weaviate, Chroma, Faiss, and Qdrant enable agentic AI systems to store, retrieve, and process high-dimensional data for contextual memory and knowledge management. These databases support real-time data ingestion and low-latency search capabilities, which are essential for agents that need to access and correlate information from multiple sources during autonomous operation.
+
+Workflow orchestration tools
+Frameworks such as LangChain, LangGraph, CrewAI, and MetaGPT provide the infrastructure for coordinating multi-agent systems and managing complex workflows. LangChain excels in managing context and integrating external tools, while CrewAI focuses on role-based agent design that enables autonomous task delegation and seamless collaboration between specialized agents.
+
+Tools  using APIs and plugins
+Integration capabilities, including browser access, code execution, file search, and retrieval plugins, allow agents to interact with external systems and expand their operational capabilities beyond core knowledge. OpenAI’s retrieval plugin exemplifies this functionality by enabling ChatGPT to access personal or organizational information sources through vector database searches.
+
+Prompt engineering and agent frameworks
+Specialized frameworks like OpenAI Swarm, ARCADE, and FIPA provide structured approaches for defining agent behavior, communication protocols, and lifecycle management. These systems offer standardized practices for building agents that can interpret natural language instructions, react dynamically to environmental changes, and maintain consistent performance across diverse scenarios.
+
+Challenges and considerations
+While agentic AI offers transformative capabilities, organizations must navigate significant challenges and considerations before deployment. These complexities require careful planning, robust governance frameworks, and ongoing monitoring to ensure responsible implementation that aligns with business objectives and ethical standards.
+
+Key challenges and considerations include:
+
+Alignment and safety risks: Autonomy introduces unpredictability where agents must be aligned with human values and constraints to prevent harmful outcomes that conflict with human interests.
+Security and access control: Agents interfacing with tools and APIs require secure permission structures to prevent unauthorized access to sensitive data and maintain proper privilege boundaries.
+Transparency and explainability: Understanding how and why agents make decisions can be difficult due to their “black box” nature, making it challenging to trace the reasoning behind specific actions or outcomes.
+Error handling and oversight: Systems need fallback mechanisms for failures or misinterpretations, with human oversight remaining essential until AI systems become fully reliable.
+Resource management: Running complex agents may consume significant computing power and environmental resources, requiring careful consideration of operational costs and sustainability impacts.
+Ethical and regulatory compliance: Autonomous agents must adhere to privacy, bias, and accountability standards while addressing concerns about fairness in employment decisions and healthcare recommendations.
+Data integrity risks: AI agents might modify datasets or databases in ways that introduce bias, potentially creating irreversible impacts that scale undetected across organizational systems.
+Economic and social impact: Automation through agentic AI can lead to job displacement, increased inequality, and concentration of power among technology leaders, requiring careful consideration of societal implications.
+Impacts of agentic AI in PLM and manufacturing
+Agentic AI fundamentally transforms how organizations manage product development and manufacturing processes. “Enter the era of agentic AI – background agents that operate autonomously to make new inferences and suggest optimizations without requiring explicit instructions from humans,” Epstein says. “This has the potential to transform PLM from a tool that supports decision-making to an active partner in product innovation and lifecycle management.”
+
+The technology’s ability to operate independently while maintaining alignment with business objectives makes it particularly valuable for modern product-driven enterprises seeking competitive advantage through operational excellence.
+
+Accelerated product lifecycle management (PLM)
+Agentic AI automates and optimizes stages of the product lifecycle from concept and design to testing and release by coordinating tasks across CAD tools, PLM platforms, and engineering databases. These systems seamlessly integrate disparate digital systems across all departments involved in the product lifecycle, enabling enhanced knowledge sharing and learning between functions that boost efficiency across the product’s entire lifespan.
+
+“Agentic AI is poised to enhance product lifecycle management by enabling companies to make faster, smarter decisions,” says Marilyn Guisbond, Aras’ content marketing manager. “With agentic AI, autonomous ‘agents’ analyze vast streams of data in real-time and offer tailored suggestions to designers, engineers, and managers on how to optimize processes for speed and cost.”
+
+AI agents can track design revisions, flag compliance issues, and initiate change requests without manual intervention, ensuring that regulatory compliance and quality standards are maintained throughout development cycles.
+
+Design-to-production automation
+Agents assist in translating design specifications into production-ready formats by simulating manufacturing constraints and triggering updates in ERP or MES systems, thereby facilitating faster design transfer. This capability reduces time-to-market by autonomously managing handoffs between engineering, procurement, and manufacturing departments while ensuring design integrity is maintained throughout the transition process.
+
+The technology enables dynamic scheduling by autonomously adjusting production plans in response to real-time data, such as reallocating tasks to other machines or rescheduling production when equipment goes offline unexpectedly.
+
+Predictive quality and maintenance
+Agentic AI monitors manufacturing telemetry and quality data in real time, enabling proactive adjustments or maintenance scheduling before faults occur. Studies indicate that predictive maintenance programs powered by AI can reduce machine downtime by up to 50% and increase machine life by 20% to 40%.
+
+These systems integrate seamlessly with IoT and SCADA systems, providing end-to-end visibility and actionability. They utilize computer vision and machine learning algorithms to detect defects or deviations from quality standards during production. Depending on the industry and specific application, manufacturers implementing AI-based quality control systems report defect reductions of 30% to 90%.
+
+Supply chain coordination
+AI agents dynamically adjust procurement plans based on lead times, material availability, and production demand while interacting directly with supplier APIs and PLM-integrated procurement tools. Gartner reports that manufacturers using AI for supply chain management experience forecast accuracy improvements of 20% to 50% and inventory reductions of 10% to 30% while maintaining or improving service levels.
+
+These systems enhance responsiveness and reduce downtime from parts shortages or delays by autonomously monitoring supply chain operations and providing real-time insights into potential disruptions. Once a disruption is detected in real time, AI agents can automatically reroute shipments from alternative suppliers while adjusting production schedules to mitigate the impact on delivery timelines.
+
+Continuous improvement and feedback loops
+Agentic systems collect post-production data and customer feedback, then input it into PLM systems to inform design revisions or product improvements. Building effective feedback loops requires defining clear objectives and KPIs that align with business outcomes, using both quantitative metrics (e.g., precision and recall) alongside qualitative measures (e.g., user satisfaction).
+
+These systems close the loop between the digital thread and real-world outcomes, thereby eliminating the need for manual data reconciliation. By combining human insights with automated data collection, organizations can achieve comprehensive results for continuous optimization.

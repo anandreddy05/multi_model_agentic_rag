@@ -1,0 +1,14 @@
+langchain 
+chromadb 
+langgraph
+pydantic
+langchain_openai
+langchain_chroma
+langchain_community
+langchain_experimental
+python-dotenv
+unstructured[docx]
+python-docx
+ddgs
+duckduckgo-search
+google-search-results
