@@ -28,6 +28,8 @@ A fully modular and intelligent agent built with **LangGraph**, **LangChain**, a
   - Code Execution
   - Web Search
   - File Saving
+  - Generate Image
+- 🤗 **HuggingFace API** - to generate images.
 - 📝 **User feedback loop** — simulate user agreement or disagreement to refine response quality.
 - 🧠 **Memory integration** — persists across sessions with LangGraph memory saver.
 - 🧪 **LangSmith tracing** — full observability for each decision and step.
@@ -42,6 +44,7 @@ A fully modular and intelligent agent built with **LangGraph**, **LangChain**, a
 - `Python REPL`
 - `Web Search`
 - `File Save`
+- `Generate Image`
 
 ```bash
 git clone https://github.com/anandreddy05/multi_model-_agentic_rag.git
