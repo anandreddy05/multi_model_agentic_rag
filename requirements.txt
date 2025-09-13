@@ -4,6 +4,7 @@ langgraph
 pydantic
 langchain_openai
 langchain_chroma
+langchain_huggingface
 langchain_community
 langchain_experimental
 python-dotenv
@@ -12,3 +13,7 @@ python-docx
 ddgs
 duckduckgo-search
 google-search-results
+diffusers
+# transformers
+# accelerate
+gradio

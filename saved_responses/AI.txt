@@ -1,0 +1,10 @@
+Agentic AI refers to autonomous systems designed to make decisions, initiate actions, and pursue goals with minimal human input. This represents a significant advancement over traditional AI models, which typically require constant oversight and predefined constraints.
+
+Key characteristics of Agentic AI include:
+
+- **True Autonomy**: These systems can independently analyze situations and take purposeful actions to achieve specific objectives.
+- **Human-like Agency**: They simulate agency through sophisticated planning, reasoning, and adaptation capabilities that allow them to navigate dynamic environments effectively.
+- **Advanced Technologies**: Agentic AI leverages large language models (LLMs), machine learning (ML), and natural language processing (NLP) to recognize context and execute complex tasks.
+- **Interaction with External Tools**: These agents can interact with external tools and APIs and continuously learn from feedback to enhance their performance over time.
+
+In essence, Agentic AI represents a move towards more sophisticated, autonomous AI agents capable of effective decision-making and actions in various contexts.

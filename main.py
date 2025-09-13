@@ -17,6 +17,7 @@ from tools.web_search import web_search
 from tools.save import save_tool
 from tools.retriever import retriever_tool
 from tools.summarize import summarize_tool
+from tools.image import generate_image_tool
 
 load_dotenv(override=True)
 
@@ -47,7 +48,7 @@ class Agent:
         
     def setup(self):
         # Define tools at class level
-        self.tools = [retriever_tool, calculator, Python_Code_Executor, web_search, save_tool, summarize_tool]
+        self.tools = [retriever_tool, calculator, Python_Code_Executor, web_search, save_tool, summarize_tool,generate_image_tool]
         self.tool_node = ToolNode(self.tools)
         
         # Initialize LLMs
@@ -76,6 +77,7 @@ class Agent:
             ⚠️ Do NOT use or suggest unsafe modules like `os`, `open`, or `import`.
             5. `save_tool` – Use only if the user explicitly asks you to save a response to a file.
             6. `summarize_tool` – Use this to summarize long outputs when needed or upon request.
+            7. `generate_image_tool` - Use this to generate images upon users request only.
 
             ### System Behavior Guidelines:
 

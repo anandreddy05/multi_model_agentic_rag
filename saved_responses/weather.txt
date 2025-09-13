@@ -1,0 +1,6 @@
+Current weather in Vadodara, Gujarat, India:
+- Temperature: 32.2°C
+- Weather Condition: Mostly cloudy
+- Precipitation: 0%
+- Humidity: 57%
+- Wind: 8 mph

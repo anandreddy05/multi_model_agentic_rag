@@ -1,5 +1,6 @@
 chroma_db
 app.py
+exports
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
